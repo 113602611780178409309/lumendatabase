@@ -1,4 +1,4 @@
-[![Build Status](https://circleci.com/gh/berkmancenter/lumendatabase.svg?style=shield)](https://circleci.com/gh/berkmancenter/lumendatabase)
+https://github.com/berkmancenter/lumendatabase.git[![Build Status](https://circleci.com/gh/berkmancenter/lumendatabase.svg?style=shield)](https://circleci.com/gh/berkmancenter/lumendatabase)
 [![Code Climate](https://codeclimate.com/github/berkmancenter/lumendatabase/badges/gpa.svg)](https://codeclimate.com/github/berkmancenter/lumendatabase)
 
 # Lumen Database
